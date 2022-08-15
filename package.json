@@ -1,13 +1,14 @@
 {
-  "name": "node-hw-01",
+  "name": "goit-nodejs-hw1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "commander": "^9.3.0"
+    "commander": "^9.3.0",
+    "dotenv": "^16.0.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.19"
   },
   "scripts": {
     "start": "node index.js",
@@ -15,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NikitaOsa/nodejs-hw-01.git"
+    "url": "git+https://github.com/NikitaOsa/goit-nodejs-hw1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NikitaOsa/nodejs-hw-01/issues"
+    "url": "https://github.com/NikitaOsa/goit-nodejs-hw1/issues"
   },
-  "homepage": "https://github.com/MykhailoKutsyi/nodejs-hw-01#readme"
+  "homepage": "https://github.com/MykhailoKutsyi/goit-nodejs-hw1#readme"
 }
