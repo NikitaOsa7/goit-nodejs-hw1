@@ -5,7 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "commander": "^9.3.0",
-    "dotenv": "^16.0.1"
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "nanoid": "^4.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
